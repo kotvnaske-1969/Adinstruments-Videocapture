@@ -145,4 +145,4 @@ This repository serves as the official landing page for ADInstruments VideoCaptu
 **Get the most recent version of ADInstruments VideoCapture today!**
 
 ---
-**Last updated:** 2026-11-08 22:44:37 UTC
+**Last updated:** 2026-11-09 02:31:12 UTC
